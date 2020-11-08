@@ -4,3 +4,5 @@
 - To train this model I have used Convolutional neral network 
 - With CNN I have achieved 91% training accuracy in image classification 
 - After training and validation of model I have predicted the results for new images directly from Google.
+- [Kaggle Dataset link](https://www.kaggle.com/noulam/tomato)
+
